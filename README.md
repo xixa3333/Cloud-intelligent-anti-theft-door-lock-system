@@ -1,5 +1,7 @@
 ## 雲端智能防盜門鎖系統
 
+![image](https://github.com/xixa3333/Cloud-intelligent-anti-theft-door-lock-system/assets/128284090/099c5826-445c-4005-ae5b-3488381bd49e)
+
 這是我在高職時製作的一個專題。
 
 [實作](https://youtu.be/gA9H_TTG37Q)影片
@@ -14,6 +16,8 @@
 - **入侵檢測：** 在未經授權的進入嘗試時立即發出警報並捕捉圖像。
 - **人臉識別：** 使用人臉識別進行高級安全的解鎖。
 - **雲端整合：** 與雲端服務無縫連接，進行遠程監控和控制。
+
+![image](https://github.com/xixa3333/Cloud-intelligent-anti-theft-door-lock-system/assets/128284090/d07a9576-c4d3-405f-aae5-e0f109ea1c2e)
 
 ### 專案組成
 - **硬體：** 系統中使用的詳細硬體組件。
