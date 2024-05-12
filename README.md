@@ -2,7 +2,7 @@
 
 ![image](https://github.com/xixa3333/Cloud-intelligent-anti-theft-door-lock-system/assets/128284090/099c5826-445c-4005-ae5b-3488381bd49e)
 
-這是我在高職時製作的一個專題。
+這是我在高職時製作的一個專題。  
 我在專題中負責程式的部分。
 
 [實作](https://youtu.be/gA9H_TTG37Q)影片
